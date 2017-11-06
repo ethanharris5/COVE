@@ -1,2 +1,0 @@
-# COVE
-**Ethan Harris**
