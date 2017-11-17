@@ -187,7 +187,7 @@ header .hero {
    vertical-align: middle;
  }
  .benefits h2 {
-   color:#3498DB;
+   color:#5BBCE6;
  }
 
  /* PRICING */
@@ -286,7 +286,6 @@ header .hero {
    color:#FFFFFF;
    text-align: left;
    font-style: italic;
-   font-weight:100;
    background:#34495E;
    position: relative;
    padding:30px;
@@ -322,6 +321,8 @@ header .hero {
    font-size:13px;
    margin-top: 30px;
  }
+ /*stagger testimonials/
+
  .stagger {
    margin-top: 20px;
  }
