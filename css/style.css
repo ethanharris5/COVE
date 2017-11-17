@@ -42,7 +42,7 @@ html, body{
   min-height: 1px;
   margin:0 2% 20px;
 }
-
+/*
 @media (min-width: 320px) {
    .container {
      width: 300px;
@@ -69,7 +69,7 @@ html, body{
      width: 1170px;
    }
  }
-
+*/
  /* HEADER */
 header {
   color:#FFFFFF;
