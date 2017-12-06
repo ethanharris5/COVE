@@ -380,7 +380,7 @@ header .hero {
      padding: 2em 0 2em 1.5em;
    }
  }
- 
+
  /* DASHBOARD */
  .dashboard {
    background:#F7F7F7;
@@ -429,6 +429,11 @@ header .hero {
    text-align: center;
    margin-right:8px;
  }
+ 
+ .left-nav .items ul li a.active {
+     font-weight: 700;
+   }
+
 
  /* LEFT NAVBAR SETTINGS */
  .left-nav .settings {
