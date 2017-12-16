@@ -46,6 +46,25 @@
    top: -8px;
    right: 10px;
   }
+
+  .settings .dropit .dropit-open .dropit-submenu:after {
+   border-width: 8px 8px 0;
+   bottom: -8px;
+   top: inherit;
+ }
+
+.settings .dropit .dropit-submenu {
+  bottom: 100%;
+  top: inherit;
+  min-width: 120px;
+  padding-top: 10px
+
+
+}
+.settings .dropit .dropit-submenu li{
+  margin-right: -10px
+}
+
   .dropit .dropit-open .dropit-submenu li {
    display: block;
    margin-bottom: 20px;
